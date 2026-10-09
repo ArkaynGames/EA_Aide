@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../ArkaynDAL/ArkaynDAL.csproj" />
   <Project Path="../EACore_Data/EACore_Data.csproj" />
+  <Project Path="../EACore_Logic/EACore_Logic.csproj" Id="4c8040c8-6487-457b-9b0e-83fe211fd8cc" />
   <Project Path="EA_Aide.csproj" />
 </Solution>
